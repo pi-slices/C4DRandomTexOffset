@@ -6,6 +6,7 @@ import random
 #Written by Pi-Slices
 #http://pislices.ca
 #April 27th 2019
+#Run via Script -> Run Script
 
 def main():
     tag = doc.GetActiveTags()
@@ -21,3 +22,4 @@ def main():
     
 if __name__=='__main__':
     main()
+    
